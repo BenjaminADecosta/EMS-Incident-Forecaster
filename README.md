@@ -18,4 +18,10 @@ This project provides forecasts of weekly emergency medical service (EMS) calls 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/nyc_ems_forecast.git
+   git clone https://github.com/BenjaminADecosta/nyc_ems_forecast.git
+
+2. Install dependencies:
+   pip install pandas numpy matplotlib requests statsmodels scikit-learn
+
+3. Run the Script:
+   python ems_forecast.py
